@@ -7,7 +7,7 @@ target/
 ### VS Code ###
 .vscode/
 generated_files/
-
+venv/
 ### STS ###
 .apt_generated
 .classpath
