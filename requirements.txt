@@ -1,0 +1,5 @@
+# Project dependencies
+flask
+faker
+pandas
+openpyxl
